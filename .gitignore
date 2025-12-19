@@ -1,0 +1,80 @@
+# Lazarus / Free Pascal / Delphi related
+# Mantém somente fontes (.pas, .pp, .lpr, .lpi, .lfm) e outros necessários.
+
+# Binários gerados
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.o
+*.out
+*.app
+
+# Objetos e units compilados
+*.ppu
+*.ppw
+*.o
+*.or
+*.rst
+*.rsj
+*.dcu
+*.bak
+*.compiled
+
+# Diretórios de build comuns
+/lib/
+/units/
+/build/
+/tmp/
+/bin/
+/debug/
+/release/
+
+# Arquivos de sessão do Lazarus (podem ser recriados)
+*.lps
+
+# Logs e temporários
+*.log
+*.tlog
+*.tmp
+~$*
+
+# Backup do editor
+*.~*
+
+# Cache Lazarus / FPC
+.fpc.cache/
+.idea/
+
+# VSCode settings locais (se não quiser versionar)
+.vscode/
+
+# Arquivos de controle do sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Git merge artefacts
+*.orig
+
+# Se usar testes gerando saída
+/test-output/
+/coverage/
+
+# Caso utilize pacote externo que baixa dependências
+/vendor/
+
+# Marp artefacts (gerados a partir de markdown)
+#*.pdf
+*.pptx
+*.html
+
+# Permitidos explicitamente (negando glob anterior se necessário)
+!*.pas
+!*.pp
+!*.lpr
+!*.lpi
+!*.lfm
+!*.md
+!tema-uece.css
