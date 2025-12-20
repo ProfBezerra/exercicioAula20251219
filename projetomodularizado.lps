@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="projetomodularizado.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="43"/>
+        <CursorPos Y="54"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="15"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="44" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="18" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="19" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="20" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="21" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="45" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="18" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="19" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="20" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="21" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="46" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="18" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="19" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="20" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="21" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="50" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="24" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="26" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="27" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="28" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="42" Column="26" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="51" Column="22" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="52" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="53" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="54" Column="13" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="25" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="26" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="27" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="projetomodularizado.lpr"/>
+        <Caret Line="28" TopLine="15"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="v1"/>
+      </Item>
+      <Item>
+        <Expression Value="v2"/>
+      </Item>
+      <Item>
+        <Expression Value="x"/>
+      </Item>
+      <Item>
+        <Expression Value="y"/>
+      </Item>
+      <Item>
+        <Expression Value="total"/>
+      </Item>
+      <Item>
+        <Expression Value="t"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
